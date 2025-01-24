@@ -1,0 +1,72 @@
+/* Reset gaya dasar */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  /* Gaya header */
+  header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #0073e6;
+    color: #fff;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  header p {
+    font-size: 1.2rem;
+    margin: 0.5rem 0 0;
+  }
+  
+  /* Gaya bagian utama */
+  main {
+    padding: 1rem 2rem;
+  }
+  
+  .about, .social-links {
+    margin-bottom: 2rem;
+  }
+  
+  .about h2, .social-links h2 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .about p {
+    line-height: 1.6;
+  }
+  
+  /* Gaya daftar tautan */
+  .social-links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .social-links li {
+    margin: 0.5rem 0;
+  }
+  
+  .social-links a {
+    text-decoration: none;
+    color: #0073e6;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Gaya footer */
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+    font-size: 0.9rem;
+  }
+  
